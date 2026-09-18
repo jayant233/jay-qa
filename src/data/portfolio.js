@@ -7,7 +7,7 @@ export const portfolio = {
     linkedin: 'https://linkedin.com/in/jayant-bansal',
     github: 'https://github.com/jayant233',
     instagram: 'https://www.instagram.com/jayant23bansal',
-    resume: '/resume.pdf',
+    resume: '/Jayant_Bansal_QA.pdf',
     portrait: '/assets/profile/jayant.jpg'
   },
   heroTitles: ['Automation Test Engineer', 'QA Automation Engineer', 'Software Test Engineer'],
