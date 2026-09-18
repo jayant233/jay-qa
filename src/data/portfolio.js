@@ -13,8 +13,8 @@ export const portfolio = {
   heroTitles: ['Automation Test Engineer', 'QA Automation Engineer', 'Software Test Engineer'],
   summary: 'QA-focused engineer building reliable UI, API, and end-to-end automation with Java, Selenium, Playwright, REST Assured, JUnit 5, and CI/CD workflows.',
   experience: {
-    company: 'SkillNexus', role: 'Software Quality Assurance Tester', location: 'Remote', dates: 'Sep 2026 - Present',
-    points: ['Designed and executed 30+ manual test cases with clear test documentation.', 'Reported reproducible defects with screenshots, steps, and expected versus actual results.', 'Performed end-to-end functional testing, Jira defect tracking, and severity/priority analysis.', 'Prepared test plans and test summary reports across the defect lifecycle.']
+    company: 'SkillNexus', role: 'Software Quality Assurance Tester', location: 'Remote', dates: 'Aug 2026 - Sep 2026',
+    points: ['Designed and executed 30+ manual test cases, documenting defects with screenshots, reproduction steps, and expected vs. actual results.', 'Prepared test plans, performed end-to-end functional testing, logged defects in Jira with severity and priority, tracked the defect lifecycle, and prepared test summary reports.']
   },
   metrics: [['30+', 'Manual test cases'], ['25', 'Automated E2E / functional tests'], ['15', 'Playwright UI / E2E tests'], ['10', 'REST Assured API tests'], ['CI/CD', 'GitHub Actions']],
   skills: {
