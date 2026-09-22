@@ -8,7 +8,7 @@ export const portfolio = {
     github: 'https://github.com/jayant233',
     instagram: 'https://www.instagram.com/jayant23bansal',
     resume: '/Jayant_Bansal_QA.pdf',
-    portrait: '/assets/profile/jayant.jpg'
+    portrait: '/assets/profile/jayant.jpeg'
   },
   heroTitles: ['Automation Test Engineer', 'QA Automation Engineer', 'Software Test Engineer'],
   summary: 'QA-focused engineer building reliable UI, API, and end-to-end automation with Java, Selenium, Playwright, REST Assured, JUnit 5, and CI/CD workflows.',
